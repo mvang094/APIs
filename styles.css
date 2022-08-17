@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column; 
+}
+#header{
+    display: block;
+    margin: auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32px;
+    border: 2px dotted red;
+}
+
+div{
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+}
+
+section {
+    display: block;
+    font-family: sans-serif;
+    margin: auto; 
+    margin-top: 25px;
+    border: 2px solid black;
+}
